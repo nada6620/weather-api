@@ -19,6 +19,4 @@ A REST API that provides current weather information for a given city.
 - Axios
 
 ## Project URL
-
-[https://github.com/nada6620/weather-api]
-(https://github.com/nada6620/weather-api)
+https://roadmap.sh/projects/weather-api-wrapper-service
